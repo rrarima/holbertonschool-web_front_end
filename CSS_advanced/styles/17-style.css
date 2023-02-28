@@ -418,8 +418,8 @@ a:active {
 }
 
 .section-footer {
-  text-align: var(--section-footer-padding);
-  padding: var(--section-header-padding);
+  padding: var(--section-footer-padding);
+  text-align: var(--section-footer-align);
 }
 
 .section-title {
